@@ -1,4 +1,6 @@
 # springboot-microservices
 Springboot and Microservices
 
-# This project implemented by using java 8 features 
+#Run Spring Boot app using Maven:
+    mvn spring-boot:run
+
